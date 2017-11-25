@@ -1,5 +1,6 @@
-# Seed_To_Address
-Generate Bitcoin Address ,Public and  Private Key
+# Seed_To_Address Generating Bitcoin Address ,Public and  Private Key
+
+
 1.)Take the string user entered to generate a private key.The generated private key is a number.
 Private Key = SHA256("Blockchain is awesome")
 Private Key New  = Base58Encode(Version No + Private Key + Compression Flag + Checksum)
