@@ -11,7 +11,7 @@ Public Key = Private Key * Constant Point
 3.)Lastly,use one-way cryptographic hash functionto generate a bitcoin address
 Bitcoin address  = Base58Encode(RIPEMD160(SHA256(Public key)))
 
-
-![alt text]https://imgur.com/a/pHNco
+Checkout the sample input/output below-
+https://imgur.com/a/pHNco
 
 
