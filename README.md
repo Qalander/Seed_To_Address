@@ -13,3 +13,6 @@ Bitcoin address  = Base58Encode(RIPEMD160(SHA256(Public key)))
 
 
 ![alt text](https://imgur.com/a/pHNco)
+
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/pHNco"><a href="//imgur.com/pHNco"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
