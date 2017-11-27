@@ -1,7 +1,7 @@
 //  Bigi to work with Big Integers like 256 bits.
 var bigi = require('bigi');
 //  JavaScript Bitcoin library.
-var bitcoinlib = require('bitcoinlibjs-lib');
+var bitcoinlib = require('bitcoinjs-lib');
 //  WIF - Bitcoin Wallet Import Format
 var wif = require('wif');
 //  Set some defaults
